@@ -8,10 +8,12 @@ This project uncovers the critical likelihood that a campaign(play) will succeed
 
 ### *Analysis of Outcomes Based on Launch Date* 
 I pulled this data from our initial data entree in Kickstarter. This section's parent is theater and year. These months show a breakdown of Louise's success, failure, cancellation, and total from January to December. Once this data was configured to display success rates, I converted the information to a line chart for theater outcomes based on the launch date. 
+![alt text](https://github.com/Ev9784/kickstarter_analysis/blob/main/Theator_outcomes_vs_launch.png?raw=true)
 
 
 ### Analysis of Outcomes Based on Goals
  This data supports the following sections: goals: successful, failed, canceled, and total projects. It later breaks down the same categories into percentages based on the data provided. These outcomes are based on (plays) showing the succession rates in 5,000 increments. 
+ ![alt text](https://github.com/Ev9784/kickstarter_analysis/blob/main/Outcomes%20Based%20on%20Goal.png?raw=true)
 
 ## Challenges and Difficulties Encountered
 
